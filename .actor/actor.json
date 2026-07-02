@@ -20,5 +20,18 @@
             "pricePerEvent": 0.0015,
             "description": "Charged per Ayurveda clinic lead successfully extracted"
         }
-    ]
+    ],
+    "isPublic": true,
+    "seoTitle": "Ayurveda Clinic Lead Finder | Apify Actor",
+    "seoDescription": "Extract B2B lead profiles of Ayurveda doctors, clinics, ratings, and locations directly from major health directories like Practo.",
+    "categories": [
+        "BUSINESS",
+        "DATA_EXTRACTION",
+        "LEAD_GENERATION"
+    ],
+    "defaultRunOptions": {
+        "build": "latest",
+        "timeoutSecs": 1800,
+        "memoryMbytes": 256
+    }
 }
